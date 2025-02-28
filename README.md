@@ -103,8 +103,9 @@ https://www.coursera.org/learn/relational-database-administration
 
 
 
-
 ## M2 - Managing Databases
+![image](https://github.com/user-attachments/assets/3cbd6007-e6a6-4b5b-891a-b4f991fa25c8)
+
 
 ### Backup and Restore Databases
 
