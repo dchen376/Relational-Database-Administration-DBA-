@@ -50,6 +50,55 @@ https://www.coursera.org/learn/relational-database-administration
   ![image](https://github.com/user-attachments/assets/59433a81-357d-4f2b-8c8e-446c055cc74a)
 ![image](https://github.com/user-attachments/assets/374170de-bdb5-4ac0-a3b4-5cf035833a03) *
 
+![image](https://github.com/user-attachments/assets/0ae59ffd-9844-4313-900e-d66858333733)
+
+
+#### System Objects and Database Configuration
+![image](https://github.com/user-attachments/assets/e413079e-681e-46c0-a6a8-c36b337e3c18)
+
+##### system objects
+  ![image](https://github.com/user-attachments/assets/26e350d6-b707-4611-9089-9ea60ab53a31)
+
+-Db2
+![image](https://github.com/user-attachments/assets/f71a90f2-4526-41dd-9e6f-193c20b23cf4)
+
+- MySQL
+  ![image](https://github.com/user-attachments/assets/350860ea-7632-40f8-9503-94c358af44bf)
+
+- PostgreSQL
+  ![image](https://github.com/user-attachments/assets/6e68efc9-9d69-4fe8-b10c-9af5eaefb279)
+
+##### Configuration files
+![image](https://github.com/user-attachments/assets/5689f2fd-1e3c-4ba6-97eb-5fdbc6a6ba70)
+
+- configuration settings
+![image](https://github.com/user-attachments/assets/0c6f09b0-1a71-4023-82e1-f4e634bb71d6)
+
+![image](https://github.com/user-attachments/assets/7bd661de-6f17-4a50-afc7-9e90c1a5afc0)
+
+![image](https://github.com/user-attachments/assets/1bb4ba74-9307-4de9-a662-b07f36dcdd8a)
+
+![image](https://github.com/user-attachments/assets/a499b170-3bc2-4a2f-8e19-2af0d440dab1)
+
+
+#### Database Storage
+![image](https://github.com/user-attachments/assets/ca17e1dc-08d0-4593-979e-2ef6a62ee7ab)
+
+##### Tablespaces and containers
+![image](https://github.com/user-attachments/assets/576eceb3-85f4-4936-b96c-712b8bcd4ae9)
+
+![image](https://github.com/user-attachments/assets/75f3400f-9700-4767-a545-9c77deceeab9)
+
+- storage groups
+  ![image](https://github.com/user-attachments/assets/b17bcf16-5311-4c15-8c88-c218917014ee)
+
+- partitions
+  ![image](https://github.com/user-attachments/assets/525bc299-928f-4579-adba-50f973937003) *
+
+
+![image](https://github.com/user-attachments/assets/a6317685-3ad1-4d73-94a2-77b9097d8539)
+
+
 
 
 
