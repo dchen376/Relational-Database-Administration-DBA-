@@ -34,8 +34,21 @@ https://www.coursera.org/learn/relational-database-administration
 
 ### Server Objects and Hierarchy
 
+#### Database Objects
+![image](https://github.com/user-attachments/assets/86524970-bfac-413c-a083-bd2897a28a2f)
 
+- database hierarchy
+  ![image](https://github.com/user-attachments/assets/63a816e3-328b-4d23-98ae-578e3450ff45)
 
+- Instance
+![image](https://github.com/user-attachments/assets/34d44df2-c099-4f92-b2b1-3a9b0a733538)
+
+- Schema
+  ![image](https://github.com/user-attachments/assets/d50b37f0-edaa-43d6-8ac8-98bfcd716aa1)
+
+- database objects
+  ![image](https://github.com/user-attachments/assets/59433a81-357d-4f2b-8c8e-446c055cc74a)
+![image](https://github.com/user-attachments/assets/374170de-bdb5-4ac0-a3b4-5cf035833a03) *
 
 
 
