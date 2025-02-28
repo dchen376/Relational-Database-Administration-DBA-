@@ -81,7 +81,7 @@ https://www.coursera.org/learn/relational-database-administration
 ![image](https://github.com/user-attachments/assets/a499b170-3bc2-4a2f-8e19-2af0d440dab1)
 
 
-#### Database Storage
+##### Database Storage
 ![image](https://github.com/user-attachments/assets/ca17e1dc-08d0-4593-979e-2ef6a62ee7ab)
 
 ##### Tablespaces and containers
