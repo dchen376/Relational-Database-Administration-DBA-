@@ -389,6 +389,85 @@ https://www.coursera.org/learn/relational-database-administration
 
 ## M4 - Troubleshooting & Automation
 
+### Troubleshooting Common Issues
+![image](https://github.com/user-attachments/assets/f06ffb18-420f-4a30-8604-e103f615c334)
+
+![image](https://github.com/user-attachments/assets/01c27746-458c-4fd8-9ae3-117383d5832d)
+
+- common performance issues *
+![image](https://github.com/user-attachments/assets/8a5a4f57-c115-497b-8cee-5b26441729fa)
+![image](https://github.com/user-attachments/assets/39e1ea3f-4579-4443-a014-13ce0331be52)
+
+![image](https://github.com/user-attachments/assets/005db36a-3e5e-4481-a106-d44b4c5af63b)
+![image](https://github.com/user-attachments/assets/997bd047-6b85-42f4-948d-a76f64b2228e)
+![image](https://github.com/user-attachments/assets/b67f0cf1-bbf9-48fb-b95b-38c349e3ae31)
+![image](https://github.com/user-attachments/assets/62c770f5-9f0e-4c37-9f55-01bccfb150d8)
+
+![image](https://github.com/user-attachments/assets/67536d02-c32e-4b90-8821-6e848e9666bb)
+![image](https://github.com/user-attachments/assets/f3f71c20-cece-412b-bf3c-a3629c42026d)
+
+- troubleshooting tools * (monitoring, dashboards, reports)
+  ![image](https://github.com/user-attachments/assets/8fe0e908-9352-4aee-b2fe-02b94c2c1196)
+
+
+### Using Status Variables, Error Codes, and Documentation
+![image](https://github.com/user-attachments/assets/b49d765d-bf7c-4033-ad7e-d0ae5e848171)
+
+- server status
+![image](https://github.com/user-attachments/assets/8446e8ea-a687-42cb-b04c-620b2a10bbc2)
+![image](https://github.com/user-attachments/assets/22c91af1-50c1-4509-95ee-203e9e0c2e0d)
+![image](https://github.com/user-attachments/assets/8d74bad8-36f2-4ea7-a0b7-8de3ce79323d)
+
+![image](https://github.com/user-attachments/assets/11379bd7-1b6c-4468-ab7a-1163b82d283d)
+
+![image](https://github.com/user-attachments/assets/2d09340d-1141-4fc8-b52c-e8f2cd2cbefb)
+
+![image](https://github.com/user-attachments/assets/e8f4ee8b-28ea-43c4-9c61-a58aec26647c)
+
+
+- log files
+  ![image](https://github.com/user-attachments/assets/257f5445-e5b9-4c13-a834-9466bdc766eb) *
+
+![image](https://github.com/user-attachments/assets/7d731ecf-1669-49f4-945f-05ef1af49967) *
+
+- Error code
+![image](https://github.com/user-attachments/assets/06da4b7a-920e-44c0-ad77-c8d926053ff9)
+
+
+
+- Documentation
+  ![image](https://github.com/user-attachments/assets/3a0983f8-6661-4096-a326-a96780e53067)
+
+
+### Using Logs for Troubleshooting
+
+![image](https://github.com/user-attachments/assets/116f7ff9-1051-45db-a0c0-b7636aae1a31) *
+![image](https://github.com/user-attachments/assets/7d18f1f7-e246-4bb7-8e83-91dd56c5093f)
+
+- diagnostic logs / troubleshooting logs/ error logs/ event logs *
+![image](https://github.com/user-attachments/assets/24c1533b-a7c9-4fc0-81db-97538ef697d9)
+
+- types of diagnostic logs *
+  ![image](https://github.com/user-attachments/assets/941eb44f-0413-4269-b6a5-0e37a32b2675)
+
+![image](https://github.com/user-attachments/assets/f15e51b2-31b4-4eef-abdf-8fd4b8d9c9a3)
+
+
+- log content
+![image](https://github.com/user-attachments/assets/425b4dc6-186b-4d46-bf80-b752ed6d8f9e)
+![image](https://github.com/user-attachments/assets/42f377cf-f6d3-47f9-ac99-93e4d0a3e446)
+
+![image](https://github.com/user-attachments/assets/f7bdb69a-6ec8-4cef-91fb-aeb5020b822c)
+
+![image](https://github.com/user-attachments/assets/7a3b4793-659e-4f57-8ee1-8e552c11f14d)
+![image](https://github.com/user-attachments/assets/a3492ca0-9bd2-44c4-8f69-29212e807dc0)
+![image](https://github.com/user-attachments/assets/0dc8ccc4-982d-4eef-a9e7-f332f9e6d97f)
+![image](https://github.com/user-attachments/assets/fc2ef5b1-579c-4c01-b0d5-8522d7f7a6c5)
+
+
+![image](https://github.com/user-attachments/assets/fbfe95d0-5c90-4806-a6c8-b78ea50397ec)
+
+
 
 
 
