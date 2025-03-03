@@ -255,14 +255,37 @@ https://www.coursera.org/learn/relational-database-administration
 
 
 
-
-
-
-
-
-
-
 ## M3 - Monitoring and Optimization
+
+### Overview of Database Monitoring
+![image](https://github.com/user-attachments/assets/98d706d9-18fb-4720-b15a-dfdac7ecc287)
+
+![image](https://github.com/user-attachments/assets/854dcf30-9f96-42fa-8aad-9bf14b97e500)
+
+![image](https://github.com/user-attachments/assets/045237c9-fa83-415c-b9f0-5465da6a3dcf)
+
+![image](https://github.com/user-attachments/assets/bd527bff-aac1-4eb2-9e01-fc0074c7e67d)
+
+- reactive monitoring
+  ![image](https://github.com/user-attachments/assets/aff74ed4-7b9e-4652-892e-b0e3880c9c2d)
+
+-proactive monitoring
+![image](https://github.com/user-attachments/assets/c7b5712b-234a-45d8-9857-f83fc02d6e69)
+
+![image](https://github.com/user-attachments/assets/997f4b5c-c3bf-41a9-a889-ba81a4862b84)
+![image](https://github.com/user-attachments/assets/f4ea9b8c-b1f8-49f4-bc88-9b3933d99ab5)
+
+![image](https://github.com/user-attachments/assets/239d28ea-ded9-43df-a84c-1cbeec9c90dc)
+![image](https://github.com/user-attachments/assets/8681e99b-482f-4820-964c-cc0e3c969039)
+
+### Monitoring Usage and Performance - Part 1
+- Key performance indicators (KPIs) *
+  ![image](https://github.com/user-attachments/assets/c4613d76-e326-43ec-a079-a82af47a6727)
+
+![image](https://github.com/user-attachments/assets/a2fef625-1e2a-4b10-8ff4-a3889c6fa993)
+*
+![image](https://github.com/user-attachments/assets/175f4199-9182-49e6-9f5b-18e375595f4d)
+
 
 
 
