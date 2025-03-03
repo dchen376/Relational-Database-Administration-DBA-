@@ -283,8 +283,7 @@ https://www.coursera.org/learn/relational-database-administration
   ![image](https://github.com/user-attachments/assets/c4613d76-e326-43ec-a079-a82af47a6727)
 
 ![image](https://github.com/user-attachments/assets/a2fef625-1e2a-4b10-8ff4-a3889c6fa993)
-*
-![image](https://github.com/user-attachments/assets/175f4199-9182-49e6-9f5b-18e375595f4d)
+![image](https://github.com/user-attachments/assets/175f4199-9182-49e6-9f5b-18e375595f4d) *
 
 
 
