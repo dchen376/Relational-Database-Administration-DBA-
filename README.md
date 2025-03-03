@@ -291,6 +291,70 @@ https://www.coursera.org/learn/relational-database-administration
 ![image](https://github.com/user-attachments/assets/554b8e99-65ea-445d-a4e2-360143d0018c)
 
 
+### Monitoring Usage and Performance - Part 2
+![image](https://github.com/user-attachments/assets/dcb03c07-eca4-4cec-9c27-2f7aec0a7e01)
+
+![image](https://github.com/user-attachments/assets/a4130c77-1dc6-42d2-9eef-c1d14723876b)
+![image](https://github.com/user-attachments/assets/5e6f9ee3-29a5-4ac6-9a0f-16bc79c5d7e7)
+
+![image](https://github.com/user-attachments/assets/74208133-ae4f-474b-b235-5da7eefe7f6a)
+
+![image](https://github.com/user-attachments/assets/cd57ce5a-88d7-4f1c-9dec-e2a1808bdc40)
+
+### Optimizing Databases 
+![image](https://github.com/user-attachments/assets/d733b60b-175d-4ed5-97e1-302db42af58e) *
+
+![image](https://github.com/user-attachments/assets/bd0d128c-e56e-4c3e-b586-47db3340c5a4)
+
+![image](https://github.com/user-attachments/assets/29237340-9329-4ef5-9a37-1406f920adcc)
+
+- vacuum *
+  ![image](https://github.com/user-attachments/assets/e96db65c-837d-4f7f-88d9-717e1fd4c181)
+![image](https://github.com/user-attachments/assets/dc79000c-58c4-4ac5-9800-23bcc8eb3c0e)
+
+- REINDEX *
+  ![image](https://github.com/user-attachments/assets/c1b89f81-e2dc-4b60-bd59-05994a757a7d)
+
+![image](https://github.com/user-attachments/assets/35da985a-be36-49d0-8a08-fd78cc57e3eb)
+![image](https://github.com/user-attachments/assets/68396b9c-077d-4fb5-baf8-6937859a0aa7)
+
+![image](https://github.com/user-attachments/assets/e9aec16d-7c4d-419a-8fb3-b43c667c8384)
+![image](https://github.com/user-attachments/assets/4a484666-3d68-4b9f-aa7b-dfd21810151f)
+
+![image](https://github.com/user-attachments/assets/dad9afdd-d798-4a8a-824a-e560c8c3439d)
+
+### Optimizing Queries
+![image](https://github.com/user-attachments/assets/1b49b8e2-5142-4953-9ef8-bf39d414f3e6)
+
+![image](https://github.com/user-attachments/assets/8523cb2c-5036-4003-988c-3bacb78f4cc9)
+
+![image](https://github.com/user-attachments/assets/cb6e1b0c-ba44-41c8-bf5a-6708bcc6e13e) *
+
+![image](https://github.com/user-attachments/assets/17d39d34-1088-4e2c-8ab0-3d8f34634df6) *
+
+- query execution plan
+  ![image](https://github.com/user-attachments/assets/e1c6b5f4-e17d-4a7d-8269-707365a9c4aa)
+
+- query optimizer *
+  ![image](https://github.com/user-attachments/assets/ed78ecfe-6b96-4325-9605-51a834540d16)
+
+
+- EXPLAIN tools *
+  ![image](https://github.com/user-attachments/assets/7a3d8197-1bd8-4885-90d7-8cdd9d3a473b)
+![image](https://github.com/user-attachments/assets/a40c51bc-4454-4faa-94cd-9d4ddecfba61)
+![image](https://github.com/user-attachments/assets/15d43afb-61c9-4ec6-be3f-3e3d8252c1e8)
+
+
+- query optimization tools *
+  ![image](https://github.com/user-attachments/assets/635e9b71-2a7c-46e6-b967-02f5066dae10)
+
+
+  ![image](https://github.com/user-attachments/assets/96c35b99-a8a4-459d-a293-a7d5de80dd7e)
+
+![image](https://github.com/user-attachments/assets/2162a8db-78a1-49e5-ab01-3525b3348b25)
+
+
+
 
 
 
