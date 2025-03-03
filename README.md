@@ -355,7 +355,34 @@ https://www.coursera.org/learn/relational-database-administration
 
 
 
+### Using Indexes
+![image](https://github.com/user-attachments/assets/5f5d2482-dbc4-4579-9640-c2dea2abfa87)
 
+![image](https://github.com/user-attachments/assets/aaf38b6e-16f1-4a68-b54d-f7e4746e698b)
+![image](https://github.com/user-attachments/assets/9a8623fe-4f54-4e0f-a32b-ffc06d560ea2)
+![image](https://github.com/user-attachments/assets/3b564bdc-e208-4762-9864-fe2c3472986c)
+
+
+- performance & maintenance *
+![image](https://github.com/user-attachments/assets/07f9672a-d1a7-41dc-b67b-7e92b38bb90a)
+![image](https://github.com/user-attachments/assets/da07a3d0-1a0b-4d2c-8a8c-dff154ecedba)
+
+![image](https://github.com/user-attachments/assets/00783329-303b-4608-bb80-33133abe43a6)
+![image](https://github.com/user-attachments/assets/13326bb7-7460-4d4c-b055-9c02bdedb52b)
+![image](https://github.com/user-attachments/assets/c8bfddf9-a3da-4d23-b3f5-df7006a40390)
+-creating primary key
+![image](https://github.com/user-attachments/assets/4f48dc82-976c-4858-b8d4-e755e7363b2a)
+
+- creating indexes
+  ![image](https://github.com/user-attachments/assets/4b43f0ef-eda9-4017-8946-89a9225d1a70)
+
+- dropping indexes
+  ![image](https://github.com/user-attachments/assets/18877a1c-97c5-4e83-b4b6-581e016301cd)
+
+- database bottlenecks *
+  ![image](https://github.com/user-attachments/assets/52e2199a-1709-4ba6-b29a-9842fb6fb198)
+
+![image](https://github.com/user-attachments/assets/6e85e803-b5e2-40d2-9d54-7da0bd54a790)
 
 
 
