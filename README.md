@@ -519,3 +519,5 @@ https://www.coursera.org/learn/relational-database-administration
 
 
 ## M5 - Final Assignment and Final Exam
+![image](https://github.com/user-attachments/assets/efa51ca3-6c25-4b97-93c1-6a591a1d5df1)
+
