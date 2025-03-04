@@ -467,6 +467,51 @@ https://www.coursera.org/learn/relational-database-administration
 
 ![image](https://github.com/user-attachments/assets/fbfe95d0-5c90-4806-a6c8-b78ea50397ec)
 
+### Overview of Automating Database Tasks
+![image](https://github.com/user-attachments/assets/43c906cf-76c4-4013-86c5-5161f4ffa30b)
+
+![image](https://github.com/user-attachments/assets/c045a2da-e200-484b-84d9-c14c72decb7b)
+
+- script automating tasks
+  ![image](https://github.com/user-attachments/assets/399e897c-b1f7-408e-9441-96f199314b70)
+![image](https://github.com/user-attachments/assets/a59c67b8-0e6c-4864-bd65-97d12cd450ce)
+
+![image](https://github.com/user-attachments/assets/ef2bd8f8-8a55-444a-8d8e-65e312467882)
+
+![image](https://github.com/user-attachments/assets/b353e229-dbdc-4b34-9efa-49019f3b9750)
+![image](https://github.com/user-attachments/assets/4d040139-f7e3-4105-a37f-9405d1364e17)
+
+- automated database task examples
+![image](https://github.com/user-attachments/assets/839c9595-9464-4af3-8af4-5267cff69d67)
+![image](https://github.com/user-attachments/assets/30d6ac2c-40b8-4511-bb28-3270ee2328df)
+
+- automating database testing *
+  ![image](https://github.com/user-attachments/assets/e0943dea-c50d-41c7-b1ab-7edf72a5a472)
+![image](https://github.com/user-attachments/assets/165d36d1-7929-4019-937a-8405ea8ba01e)
+
+![image](https://github.com/user-attachments/assets/49b0e8f0-41f7-44c7-b97f-7129b47b1aad)
+
+![image](https://github.com/user-attachments/assets/4e1ae850-7d51-44a6-bd51-db244f4ee52a)
+
+
+### Automating Reports and Alerts
+![image](https://github.com/user-attachments/assets/f089e2f1-6448-4af4-af07-3ef76f194086)
+
+- reports *
+  ![image](https://github.com/user-attachments/assets/67c6b7a0-f652-4ab1-9658-f84da9f83b74)
+![image](https://github.com/user-attachments/assets/fde09dd5-38a2-452b-97ae-c40ef48d8946)
+
+- notifications*
+  ![image](https://github.com/user-attachments/assets/92b4959a-2664-4376-bebf-4b1c972613a5)
+  
+- alerts*
+  ![image](https://github.com/user-attachments/assets/6197ede9-1f35-4e1f-a727-17d1456285fd)
+![image](https://github.com/user-attachments/assets/71530a76-ff1c-4f50-9422-d96e6883e29c) *
+
+  - automate reports
+    ![image](https://github.com/user-attachments/assets/41253c20-fda7-4aea-8b6b-7afe9d8e6464)
+    
+![image](https://github.com/user-attachments/assets/e2640873-5cb8-419c-a3c4-fdd8f716e653)
 
 
 
